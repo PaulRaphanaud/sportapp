@@ -1,3 +1,2 @@
-# S
-portapp
+# Sportapp
 App for workout
